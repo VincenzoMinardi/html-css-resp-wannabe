@@ -171,7 +171,16 @@ img {
         justify-content: center;
      }
 
+     h3 {
+        margin-top: 2rem;
+        font-size: 1.5rem;
+    }
 
+    img {
+        display: block;
+        max-width: 150px;
+        margin-left: -2rem;
+    }
 }
     
 
